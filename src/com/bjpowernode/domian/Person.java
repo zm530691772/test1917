@@ -9,5 +9,6 @@ package com.bjpowernode.domian;
  * @author:zm
  */
 public class Person {
+    private String name;
     private String id;
 }
